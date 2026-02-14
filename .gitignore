@@ -1,0 +1,45 @@
+# =========================
+# Unity generated
+# =========================
+Temp/
+Temp*/
+Obj/
+Library/
+Library/*
+Logs/
+UserSettings/
+MemoryCaptures/
+sysinfo.txt
+*.tmproj
+
+# Build folders
+Build/
+Builds/
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+*.xcuserdatad
+*.xcuserdata
+
+# OS generated
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Visual Studio / Rider
+.vs/
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.pidb
+*.userprefs
+*.user
+*.unityproj
+
+# Crashlytics / Gradle / other caches
+gradle/
+node_modules/
+
+# LFS pointer files (these may be tracked via lfs)
